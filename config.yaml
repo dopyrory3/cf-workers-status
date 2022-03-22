@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: funguys-me # unique identifier
-    name: funguys.me
+    name: Funguys Website
     description: 'The main Funguys site'
     url: 'https://funguys.me/' # URL to fetch
     method: GET # default=GET
