@@ -1,7 +1,7 @@
 settings:
   title: 'FunGuys NFT Status Page'
   url: 'https://status.funguys.me' # used for Slack messages
-  logo: logo-192x192.gif # image in ./public/ folder
+  logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
